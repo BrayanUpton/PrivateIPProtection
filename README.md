@@ -91,7 +91,7 @@ import { SepoliaConfig } from "@fhevm/solidity/config/ZamaConfig.sol";
 ## 📸 System Demonstration
 
 ### Demo Video
-The repository includes a comprehensive video demonstration (`Demo Video.mp4`) showcasing:
+The repository includes a comprehensive video demonstration (`PrivateIPProtection.mp4`) showcasing:
 - Complete application submission workflow
 - Wallet connection and MetaMask integration
 - Real-time status tracking
@@ -99,7 +99,7 @@ The repository includes a comprehensive video demonstration (`Demo Video.mp4`) s
 - Administrative functions
 
 ### On-Chain Transaction Screenshot
-Transaction verification screenshot (`On-Chain Transaction Screenshot.png`) demonstrates:
+Transaction verification screenshot (`PrivateIPProtection.png`) demonstrates:
 - Successful on-chain patent application submission
 - Encrypted data storage confirmation
 - Gas fees and transaction details

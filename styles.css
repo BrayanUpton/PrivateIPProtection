@@ -60,7 +60,7 @@ header p {
     display: flex;
     justify-content: center;
     margin-bottom: 30px;
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(255, 255, 255, 0.95);
     border-radius: 15px;
     overflow: hidden;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
@@ -70,12 +70,12 @@ header p {
     flex: 1;
     padding: 15px 20px;
     border: none;
-    background: transparent;
+    background: #f8f9fa;
     cursor: pointer;
     font-size: 1rem;
     font-weight: 600;
     transition: all 0.3s ease;
-    color: #94a3b8;
+    color: #1a1a2e;
 }
 
 .tab-btn:hover {
@@ -132,6 +132,7 @@ header p {
     font-size: 1rem;
     transition: border-color 0.3s ease;
     background: white;
+    color: #1a1a2e;
 }
 
 .form-group input:focus,
@@ -174,7 +175,7 @@ header p {
 }
 
 .btn-primary {
-    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
 }
 
@@ -210,6 +211,7 @@ header p {
     padding: 20px;
     margin-bottom: 15px;
     transition: all 0.3s ease;
+    color: #1a1a2e;
 }
 
 .application-item:hover {
@@ -269,6 +271,7 @@ header p {
     background: #f7fafc;
     border-radius: 10px;
     border: 2px solid #e2e8f0;
+    color: #1a1a2e;
 }
 
 .workload-info {
@@ -306,11 +309,13 @@ header p {
     background: #f7fafc;
     border-radius: 10px;
     border: 2px solid #e2e8f0;
+    color: #1a1a2e;
 }
 
 .contract-info p {
     margin-bottom: 10px;
     font-weight: 600;
+    color: #1a1a2e;
 }
 
 .loading {
